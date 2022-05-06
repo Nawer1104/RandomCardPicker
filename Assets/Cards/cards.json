@@ -1,0 +1,268 @@
+{
+    "Cards" : [
+        {
+            "cardId" : "card_1",
+            "cardName" : "ARC WARDEN",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
+            "cardDescription" : "SPLIT PUSH",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_2",
+            "cardName" : "BREWMASTER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
+            "cardDescription" : "THREE ELEMENTAL SPIRITS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_3",
+            "cardName" : "CHEN",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
+            "cardDescription" : "CONVERTS CREEPS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_4",
+            "cardName" : "EARTH SPIRIT",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png",
+            "cardDescription" : "DISABLES AND REPOSITIONS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_5",
+            "cardName" : "INVOKER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
+            "cardDescription" : "WEAVES MAGIC",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_6",
+            "cardName" : "IO",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png",
+            "cardDescription" : "LINKS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_7",
+            "cardName" : "LONE DRUID",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lone_druid.png",
+            "cardDescription" : "COMMANDS A BEAR",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_8",
+            "cardName" : "MEEPO",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/meepo.png",
+            "cardDescription" : "FIVE",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_9",
+            "cardName" : "MORPHLING",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/morphling.png",
+            "cardDescription" : "WATER",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_10",
+            "cardName" : "ORACLE",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/oracle.png",
+            "cardDescription" : "BUFFS AND NUKES",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_11",
+            "cardName" : "RUBICK",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png",
+            "cardDescription" : "STEALS THE SPELLS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_12",
+            "cardName" : "VISAGE",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/visage.png",
+            "cardDescription" : "SCOUTS AND ATTACKS WITH HIS FAMILIARS",
+            "cardValuable" : "RARE",
+            "weight" : 0.83
+        },
+        {
+            "cardId" : "card_13",
+            "cardName" : "ANCIENT APPARITION",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
+            "cardDescription" : "POWERFUL ICY BLAST",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_14",
+            "cardName" : "BANE",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
+            "cardDescription" : "SLEEP",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_15",
+            "cardName" : "BATRIDER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
+            "cardDescription" : "LASSO AN ENEMY AWAY",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_16",
+            "cardName" : "BEASTMASTER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
+            "cardDescription" : "SUMMONS BEASTS",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_17",
+            "cardName" : "BROODMOTHER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
+            "cardDescription" : "ARMY OF SPIDERLINGS",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_18",
+            "cardName" : "CLINKZ",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
+            "cardDescription" : "STALKS INVISIBLY",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_19",
+            "cardName" : "CLOCKWERK",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rattletrap.png",
+            "cardDescription" : "LAUNCHES HIMSELF INTO ENEMIES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_20",
+            "cardName" : "DARK WILLOW",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_willow.png",
+            "cardDescription" : "ARSENAL OF DISABLES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_21",
+            "cardName" : "DISRUPTOR",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png",
+            "cardDescription" : "TRAPS AND SILENCES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_22",
+            "cardName" : "DOOM",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/doom_bringer.png",
+            "cardDescription" : "SHUTS DOWN HIS ENEMIES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_23",
+            "cardName" : "EARTHSHAKER",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png",
+            "cardDescription" : "CHAIN STUNS",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_24",
+            "cardName" : "ELDER TITAN",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/elder_titan.png",
+            "cardDescription" : "ASTRAL SPIRIT",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_25",
+            "cardName" : "EMBER SPIRIT",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ember_spirit.png",
+            "cardDescription" : "RAPIDLY STRIKES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_26",
+            "cardName" : "ENCHANTRESS",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enchantress.png",
+            "cardDescription" : "ENCHANTS NEUTRAL CREEPS",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_27",
+            "cardName" : "ENIGMA",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png",
+            "cardDescription" : "BLACK HOLE",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_28",
+            "cardName" : "FACELESS VOID",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png",
+            "cardDescription" : "FREEZE HIS ENEMIES IN TIME",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_29",
+            "cardName" : "GRIMSTROKE",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/grimstroke.png",
+            "cardDescription" : "SWIPE HIS BRUSH",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_30",
+            "cardName" : "HOODWINK",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/hoodwink.png",
+            "cardDescription" : "SHACKLES IN TO TREES",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_31",
+            "cardName" : "KEEPER OF THE LIGHT",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
+            "cardDescription" : "POWER OF THE LIGHT",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_32",
+            "cardName" : "KUNKKA",
+            "cardImageUrl" : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
+            "cardDescription" : "GHOSTSHIP",
+            "cardValuable" : "COMMON",
+            "weight" : 1.5
+        },
+        {
+            "cardId" : "card_33",
+            "cardName" : "??????",
+            "cardImageUrl" : "https://images.unsplash.com/photo-1599508704512-2f19efd1e35f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+            "cardDescription" : "???????",
+            "cardValuable" : "????",
+            "weight" : 60
+        }
+    ]
+}
